@@ -3,6 +3,7 @@
 	<section name="SessionExportWizard">
 		<item value="HTML" key="SessionExportPage1.format"/>
 		<list key="SessionExportPage1.destinations">
+			<item value="/Users/mduffy/cosc603-Duffy-project4/TestReport"/>
 			<item value="/Users/mduffy/cosc603-Duffy-project4"/>
 		</list>
 	</section>
